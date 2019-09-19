@@ -1,0 +1,25 @@
+td,
+th{
+	border: 1px solid black;
+	padding: 5px;
+}
+
+td{
+	text-align: center;
+}
+
+tr{
+	background-color: grey;
+}
+
+caption{
+	padding: 10px
+	caption-side: bottom;
+}
+
+table{
+	border-collapse: collapse;
+	border-radius: 2px black;
+	font-family: comic-sans;
+	font-size: 2em;
+}
